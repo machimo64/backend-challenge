@@ -2,7 +2,7 @@
 
 back-end challenge is a Java project to answer to Wedoogift challenge
 
-THis project is a java application which allows to manage Wedoogift service to distribute gift deposits and food deposits to employees of a company.
+This project is a java application which allows to manage Wedoogift service to distribute gift deposits and food deposits to employees of a company.
 It allows employees to check their balance and companies to offer deposits to employees
 
 ## Table of contents
